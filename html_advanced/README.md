@@ -19,3 +19,4 @@ Company name used across pages: **Techium**.
 | `3-index.html` | Simple header, main, and footer sections |
 | `article.html` | Article page with aside inside main |
 | `5-index.html` | Main section with seven semantic sections |
+| `6-index.html` | Work, news, and testimonial articles |
