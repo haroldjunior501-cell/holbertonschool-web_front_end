@@ -14,3 +14,4 @@ Company name used across pages: **Techium**.
 | File | Description |
 |------|-------------|
 | `0-index.html` | First HTML file with doctype and html tag |
+| `1-index.html` | HTML page with empty head and body sections |
