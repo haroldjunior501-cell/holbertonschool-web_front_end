@@ -22,3 +22,4 @@ Company name used across pages: **Techium**.
 | `6-index.html` | Work, news, and testimonial articles |
 | `7-index.html` | Header with empty navigation |
 | `8-index.html` | Main with level 1 heading Homepage |
+| `9-index.html` | Sections with level 2 headings |
