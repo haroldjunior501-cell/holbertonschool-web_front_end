@@ -25,4 +25,5 @@ Company name used across pages: **Techium**.
 | `9-index.html` | Sections with level 2 headings |
 | `10-index.html` | Level 3 headings in services, works, about, news |
 | `11-styleguide.html` | Styleguide page with heading levels demo |
+| `13-styleguide.html` | Styleguide with paragraph section |
 | `12-index.html` | Paragraphs in About Us, news, contact sections |
